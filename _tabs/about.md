@@ -26,6 +26,6 @@ Currently studying to take the following certs:
 * CREST CPSA
 * Certified Red Team Operator (CRTO)
 
-# Profile
+# HTB Profile
 
 ![https://app.hackthebox.com/profile/439647](https://www.hackthebox.com/badge/image/439647)
