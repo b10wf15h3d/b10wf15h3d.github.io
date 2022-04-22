@@ -6,7 +6,7 @@ order: 4
 
 # Whoami
 
-
+An IT professional with 17 years experience in a number of support roles including Service Desk, Project Support and Service Improvement looking to move into IT Security.
 
 # Whoami /privs
 
@@ -28,4 +28,4 @@ Currently studying to take the following certs:
 
 # Profile
 
-![](https://www.hackthebox.com/badge/image/439647)
+![https://app.hackthebox.com/profile/439647](https://www.hackthebox.com/badge/image/439647)
