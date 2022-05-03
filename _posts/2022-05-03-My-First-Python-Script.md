@@ -3,7 +3,7 @@ title: My First Python Script
 author: Sam
 date: 2022-04-20 09:00:00 +0000
 categories: [Courses, Python]
-tags: [oscp,courses]     # TAG names should always be lowercase
+tags: [courses,python,udemy]     # TAG names should always be lowercase
 comments: false
 ---
 # Intro
