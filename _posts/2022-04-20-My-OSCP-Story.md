@@ -3,7 +3,7 @@ title: My OSCP Story
 author: Sam
 date: 2022-04-20 09:00:00 +0000
 categories: [Courses, OSCP]
-tags: [oscp,courses]     # TAG names should always be lowercase
+tags: [oscp,courses,review]     # TAG names should always be lowercase
 comments: false
 pin: true
 ---
@@ -72,46 +72,36 @@ I know it's a cliche but ideally I want to get into penetration testing / lean t
 
 # TL;DR F.A.Qs
 
-* What is your background?
+_**What is your background?**_
 
 IT support from resetting passwords to organising migrations of Windows 7 to 10.
 
-* Why did you want to gain the OSCP certification?
+_**Why did you want to gain the OSCP certification?**_
 
 I wanted a experience a new challenge in my career and break out of user support roles.
 
-* How long did you study for?
+_**How long did you study for?**_
 
 On/off for about 18 months.
 
-* Did you experience burnout?
+**_Did you experience burnout?_**
 
 Who doesn't?! Don't be afraid to admit it to yourself or to others. Sometimes you need to push the chair away from your desk and step away. Maybe an hour, day, week or even a month! It is natural so address the signs early on before it gets so heavy you wave the white flag and give up for good.
 
-* What are the key resources external to the PWK labs?
+**_What are the key resources external to the PWK labs?_**
 
-[TJ Nulls OSCP like machines](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159)
+TJ Nulls OSCP like machines
+
+[TJ Nulls OSCP List](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159)
+
+Hacktricks bible of info, cheatsheets etc
 
 [HackTricks](https://book.hacktricks.xyz/)
 
-* How many times did you take the exam?
+**_How many times did you take the exam?_**
 
 Twice!
 
 1st attempt (old format) 60/100 points.
 
 2nd attempt 80/100 points.
-
-
-
-> An example showing the `tip` type prompt.
-{: .prompt-tip }
-
-> An example showing the `info` type prompt.
-{: .prompt-info }
-
-> An example showing the `warning` type prompt.
-{: .prompt-warning }
-
-> An example showing the `danger` type prompt.
-{: .prompt-danger }
