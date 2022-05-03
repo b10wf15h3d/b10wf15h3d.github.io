@@ -8,7 +8,6 @@ comments: false
 pin: true
 ---
 
-
 # Intro
 
 You haven't truly passed your OSCP certification until you've written even a brief blog post about it. **#ThisIsTheWay**
@@ -26,7 +25,24 @@ I have been studying for the OSCP exam on and off for about a 18 months. The big
 > There is no fixed `timeline` to when you are ready for the exam. I see many posts asking how long you need and the only appropriate response is `how long is a piece of string?` Only you'll know when the time is right.
 {: .prompt-info }
 
+## PWK Labs
 
+The PWK labs were essential to my initial learning. I know there is a consensus out there that they are "easy" and pointless in undertaking but I passed the AD section of the exam due to me returning to the labs a month beforehand. Re-hashing a certain attack vector is the only reason I was able to get a foothold on the AD chain.
+
+I completed 58/75 machines in the labs and unlocked all the VLANs.
+
+## TJ Null
+
+If you've never heard of TJ Null go search for him now!
+
+TJ Null has compiled a list of OSCP like machines external to the PWK labs covering HackTheBox, OffSec's Proving ground and Vulnhub
+
+> [TJ Nulls OSCP List](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159)
+{: .prompt-info }
+
+## Burnout
+
+Who doesn't?! Don't be afraid to admit it to yourself or to others. Sometimes you need to push the chair away from your desk and step away. Maybe an hour, day, week or even a month! It is natural so address the signs early on before it gets so heavy you wave the white flag and give up for good.
 
 # The Exam
 
@@ -68,7 +84,9 @@ So if luck truly isn't on your side you may end up with 3 standalones that you w
 
 # What is Next?
 
-I know it's a cliche but ideally I want to get into penetration testing / lean towards red teaming. After 17 odd years supporting and resolving issues I have a strong drive to "swap teams" and be on the offensive side!
+I know it's a cliche but ideally I want to get into penetration testing / lean towards red teaming in the long run. After 17 odd years supporting and resolving issues I have a strong drive to "swap teams" and be on the offensive side!
+
+
 
 # TL;DR F.A.Qs
 
@@ -88,7 +106,7 @@ On/off for about 18 months.
 
 Who doesn't?! Don't be afraid to admit it to yourself or to others. Sometimes you need to push the chair away from your desk and step away. Maybe an hour, day, week or even a month! It is natural so address the signs early on before it gets so heavy you wave the white flag and give up for good.
 
-**_What are the key resources external to the PWK labs?_**
+**_What were your key resources external to the PWK material?_**
 
 TJ Nulls OSCP like machines
 
