@@ -1,7 +1,7 @@
 ---
 title: My First Python Script
 author: Sam
-date: 2022-05-01 09:00:00 +0000
+date: 2022-05-03 09:00:00 +0000
 categories: [Courses, Python]
 tags: [courses,python,udemy,scripts]     # TAG names should always be lowercase
 comments: false
