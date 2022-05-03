@@ -1,5 +1,5 @@
 ---
-title: My OSCP Story
+title: My First Python Script
 author: Sam
 date: 2022-04-20 09:00:00 +0000
 categories: [Courses, OSCP]
