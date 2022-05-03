@@ -1,9 +1,9 @@
 ---
-title: My First Python Script
+title: My OSCP Story
 author: Sam
-date: 2022-05-03 16:30:00 +0000
-categories: [Courses, Scripts]
-tags: [scripts,python,courses,udemy]     # TAG names should always be lowercase
+date: 2022-04-20 09:00:00 +0000
+categories: [Courses, OSCP]
+tags: [oscp,courses]     # TAG names should always be lowercase
 comments: false
 ---
 # Intro
