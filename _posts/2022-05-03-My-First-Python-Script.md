@@ -10,7 +10,7 @@ comments: false
 
 My Python is like my Spanglish, I can just about read it and writing it is even worse!
 
-So I've just started the below course on Udemy. Like the instructor I believe that the best way to learn is to be hands on
+So I've just started the below linked course on Udemy. Like the instructor I believe that the best way to learn is to be hands on
 
 > [Learn Python & Ethical Hacking From Scratch](https://www.udemy.com/share/101WfE3@ZR9_AzsIapqOzT7ICc6Wjvml1wjv_zgJ_L1nsCO2XQB17bDdYJf1kOjebU5-Bdz3/)
 {: .prompt-info }
