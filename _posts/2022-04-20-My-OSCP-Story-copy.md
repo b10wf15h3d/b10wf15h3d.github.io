@@ -7,30 +7,52 @@ tags: [oscp,courses]     # TAG names should always be lowercase
 comments: false
 ---
 # Intro
-# My Background
-# The Exam
 
-Having failed the exam back in Oct '21 I entered this one very nonchalant, what will be will be! With the addition of Active Directory I really had no idea what to expect, on one hand reading Reddit posts I knew if I had covered the OSCP pdf I would be fine however on the otherhand a lengthy post with dozens of disgruntled students made me weary.
+My Python is like my Spanglish, I can just about read it and writing it is even worse!
 
-# Advice
-## Active Directory
+So I've just started the below course on Udemy. Like the instructor I believe that the best way to learn is to be hands on
 
-If you've read the course PDF then yes you 
-
-# What is Next?
-
-I know it's a cliche but ideally I want to get into penetration testing / lean towards red teaming. After 17 odd years supporting and resolving issues I have a strong drive to "swap teams" and be on the offsenive side!
-
-
-
-> An example showing the `tip` type prompt.
-{: .prompt-tip }
-
-> An example showing the `info` type prompt.
+> [Learn Python & Ethical Hacking From Scratch](https://www.udemy.com/share/101WfE3@ZR9_AzsIapqOzT7ICc6Wjvml1wjv_zgJ_L1nsCO2XQB17bDdYJf1kOjebU5-Bdz3/)
 {: .prompt-info }
 
-> An example showing the `warning` type prompt.
-{: .prompt-warning }
+# MAC Address Changer
 
-> An example showing the `danger` type prompt.
-{: .prompt-danger }
+The mini project the course starts off with is a MAC address changer.
+
+Within it you learn the following
+
+* Print statements
+* Importing modules
+* Using ***subprocess.call*** from module **subprocess** to initiate system commands.
+* Parsing arguments.
+* Defining functions.
+* Creating statements.
+
+# Code
+
+```python
+#!/usr/bin/env python
+
+import subprocess
+import optparse
+
+def get_arguments():
+    parser = optparse.OptionParser()
+    parser.add_option("-i", "--interface", dest="interface", help="Interface to change its MAC address")
+    parser.add_option("-m", "--mac", dest="new_mac", help="New MAC address")
+    (options, arguments) = parser.parse_args()
+    if not options.interface:
+        parser.error("[-] Please specify an interface, use --help for more info.")
+    elif not options.new_mac:
+        parser.error("[-] Please specify a new MAC address, use --help for more info.")
+    return options
+
+def change_mac(interface, new_mac):
+    print("[+] Changing MAC Address for " + interface + " to " + new_mac)
+    subprocess.call(["ifconfig", interface, "down"])
+    subprocess.call(["ifconfig", interface, "hw", "ether", new_mac])
+    subprocess.call(["ifconfig", interface, "up"])
+
+options = get_arguments()
+change_mac(options.interface, options.new_mac)
+```	
