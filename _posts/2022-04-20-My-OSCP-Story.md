@@ -86,7 +86,36 @@ So if luck truly isn't on your side you may end up with 3 standalones that you w
 
 I know it's a cliche but ideally I want to get into penetration testing / lean towards red teaming in the long run. After 17 odd years supporting and resolving issues I have a strong drive to "swap teams" and be on the offensive side!
 
+## Courses
 
+### Certified Red Team Operator (CRTO)
+
+If you've used the Windows privilege escalation powershell script Sherlock then you've heard of Rasta Mouse! 
+
+Mr Mouse has put together an online course that teaches the basic principles, tools and techniques, that are synonymous with red teaming.
+
+Access to your own lab enviroment you'll gain hands on experience of using Cobalt Strike to pivot your way through a Active Directory Forest.
+
+Google reviews, check out some YouTube vids, I can't do the course justice! Better value for money than the Red Labs at Pentestacademy with a great Discord community.
+
+> [Certified Red Team Operator](https://courses.zeropointsecurity.co.uk/courses/red-team-ops)
+{: .prompt-info }
+
+### Python
+
+I had never seen a python script before this course so although I can "read" python now it is on very limited understanding. I am undertaking a hands on Udemy course to better understand it and be able to write my own scripts.
+
+> [Learn Python & Ethical Hacking From Scratch](https://www.udemy.com/share/101WfE3@ZR9_AzsIapqOzT7ICc6Wjvml1wjv_zgJ_L1nsCO2XQB17bDdYJf1kOjebU5-Bdz3/)
+{: .prompt-info }
+
+### CREST CPSA/CRT
+
+A large number of companies favour those who hold CREST CRT. For those who hold the OSCP there is a certification equivalency recognition programme that allows you to take the CPSA and convert it to the CRT.
+
+> [CREST CRT Equivalency Recognition Programme](https://www.crest-approved.org/certification-careers/certification-equivalency-recognition-programmes/)
+{: .prompt-info }
+
+The CPSA is a theory based exam with material that will have been covered in the OSCP but in greater detail. For e.g. what service is generally hosted on port 25.
 
 # TL;DR F.A.Qs
 
