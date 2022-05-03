@@ -23,10 +23,10 @@ timezone: Europe/London
 
 title: Pass The Hash                          # the main title
 
-tagline: A Cybersecurity blog   # it will display as the sub-title
+tagline: Just Another Cybersecurity Blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A Cybersecurity blog
+  Just Another Cybersecurity Blog
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://b10wf15h3d.github.io'
@@ -41,7 +41,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: b10wf15h
-  email: b10wf15h@proton.me             # change to your email address
+  email: b10wf13h@proton.me             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/b10wf15h      # change to your twitter homepage
