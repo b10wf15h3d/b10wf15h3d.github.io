@@ -2,8 +2,8 @@
 title: My First Python Script
 author: Sam
 date: 2022-05-03 16:30:00 +0000
-categories: [Courses, Scripts, Python]
-tags: [scripts,courses,udemy,python]     # TAG names should always be lowercase
+categories: [Courses, Scripts]
+tags: [scripts,python,courses,udemy]     # TAG names should always be lowercase
 comments: false
 ---
 # Intro
@@ -55,4 +55,4 @@ def change_mac(interface, new_mac):
 
 options = get_arguments()
 change_mac(options.interface, options.new_mac)
-```
+```	
