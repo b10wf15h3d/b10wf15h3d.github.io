@@ -1,7 +1,7 @@
 ---
 title: My OSCP Story
 author: Sam
-date: 2022-04-20 09:00:00 +0000
+date: 2022-05-03 09:00:00 +0000
 categories: [Courses, OSCP]
 tags: [oscp,courses,review]     # TAG names should always be lowercase
 comments: false
@@ -10,7 +10,7 @@ pin: true
 
 # Intro
 
-You haven't truly passed your OSCP certification until you've written even a brief blog post about it. **#ThisIsTheWay**
+You haven't truly passed your OSCP certification until you've written even a brief blog post about it.
 
 ![Desktop View](/assets/img/thisistheway.jpeg)
 
@@ -47,6 +47,8 @@ Who doesn't?! Don't be afraid to admit it to yourself or to others. Sometimes yo
 # The Exam
 
 Having failed the exam back in Oct '21 I entered this one very nonchalant, what will be will be! With the addition of Active Directory I really had no idea what to expect, on one hand reading Reddit posts I knew if I had covered the OSCP pdf I would be fine however on the other hand a lengthy post with dozens of disgruntled students made me weary.
+
+I passed with 80/100 points!
 
 ## Advice
 
@@ -101,7 +103,7 @@ Google reviews, check out some YouTube vids, I can't do the course justice! Bett
 > [Certified Red Team Operator](https://courses.zeropointsecurity.co.uk/courses/red-team-ops)
 {: .prompt-info }
 
-### Python
+### Learn Python & Ethical Hacking From Scratch
 
 I had never seen a python script before this course so although I can "read" python now it is on very limited understanding. I am undertaking a hands on Udemy course to better understand it and be able to write my own scripts.
 
@@ -152,3 +154,21 @@ Twice!
 1st attempt (old format) 60/100 points.
 
 2nd attempt 80/100 points.
+
+**_What is your ideal 1st job?_**
+
+Penetration tester
+
+_**What courses are undertaking next?**_
+
+Certified Red Team Operator (CRTO)
+
+[Certified Red Team Operator](https://courses.zeropointsecurity.co.uk/courses/red-team-ops)
+
+CREST CPSA/CRT
+
+[CREST CRT Equivalency Recognition Programme](https://www.crest-approved.org/certification-careers/certification-equivalency-recognition-programmes/)
+
+Learn Python & Ethical Hacking From Scratch
+
+[Learn Python & Ethical Hacking From Scratch](https://www.udemy.com/share/101WfE3@ZR9_AzsIapqOzT7ICc6Wjvml1wjv_zgJ_L1nsCO2XQB17bDdYJf1kOjebU5-Bdz3/)
