@@ -2,7 +2,7 @@
 title: My First Python Script
 author: Sam
 date: 2022-05-03 16:30:00 +0000
-categories: [Scripts, Python]
+categories: [Courses, Scripts, Python]
 tags: [scripts,courses,udemy,python]     # TAG names should always be lowercase
 comments: false
 ---
@@ -30,7 +30,8 @@ Within it you learn the following
 
 # Code
 
-`#!/usr/bin/env python
+```python
+#!/usr/bin/env python
 
 import subprocess
 import optparse
@@ -53,4 +54,5 @@ def change_mac(interface, new_mac):
     subprocess.call(["ifconfig", interface, "up"])
 
 options = get_arguments()
-change_mac(options.interface, options.new_mac)`
+change_mac(options.interface, options.new_mac)
+```
