@@ -5,11 +5,15 @@ date: 2022-04-20 09:00:00 +0000
 categories: [Courses, OSCP]
 tags: [oscp,courses]     # TAG names should always be lowercase
 comments: false
+pin: true
 ---
+
+
 # Intro
 
 You haven't truly passed your OSCP certification until you've written even a brief blog post about it. **#ThisIsTheWay**
 
+![Desktop View](/assets/img/thisistheway.jpeg)
 
 # My Background
 
