@@ -50,7 +50,7 @@ It's important to surround yourself with those who support what you're trying to
 
 Having failed the exam back in Oct '21 I entered this one very nonchalant, what will be will be! With the addition of Active Directory I really had no idea what to expect, on one hand reading Reddit posts I knew if I had covered the OSCP pdf I would be fine however on the other hand a lengthy post with dozens of disgruntled students made me weary.
 
-I passed with 80/100 points!
+Oh btw I passed with 80/100 points!
 
 ## Advice
 
@@ -80,15 +80,15 @@ I stand by my view that along with technical knowledge blah blah, you will need 
 
 You could of rooted 100 HTB machines, 50 PG machines and all the PWK labs but it doesn't mean you can root what will be presented in the exam. I am not stating they are harder or easier however if the route is something you've not come across or understand you won't be able to root! 
 
-e.g. my brother has his OSCP and 4/5 years as a Pen Tester and now Red Teamer, sometimes I can point out a vuln before he does, not because I'm better it can be from experience of exploiting something similar!
+e.g. my brother has his OSCP and 4/5 years as a Pen Tester and now Red Teamer, sometimes I can point out a vuln before he does, not because I'm better but from experience of exploiting something similar!
 
 So if luck truly isn't on your side you may end up with 3 standalones that you will not get a shell on!
 
-**TL;DR** I got root on 2/3 machines and ran out of time. Luck is a factor in exams!
+**TL;DR** I got root on 2/3 machines before running out of time. Luck is a factor in exams!
 
 # What is Next?
 
-I know it's a cliche but ideally I want to get into penetration testing / lean towards red teaming in the long run. After 17 odd years supporting and resolving issues I have a strong drive to "swap teams" and be on the offensive side!
+I know it's a cliche but ideally I want to get into penetration testing / leaning towards red teaming in the long run. After 17 odd years supporting and resolving issues I have a strong drive to "swap teams" and be on the offensive side!
 
 ## Courses
 
@@ -98,7 +98,7 @@ If you've used the Windows privilege escalation powershell script Sherlock then 
 
 Mr Mouse has put together an online course that teaches the basic principles, tools and techniques, that are synonymous with red teaming.
 
-Access to your own lab environment you'll gain hands on experience of using Cobalt Strike to pivot your way through a Active Directory Forest.
+Access to your own lab environment you'll gain hands on experience of using Cobalt Strike to pivot your way through an Active Directory Forest.
 
 Google reviews, check out some YouTube vids, I can't do the course justice! Better value for money than the Red Labs at Pentestacademy with a great Discord community.
 
@@ -120,6 +120,24 @@ A large number of companies favour those who hold CREST CRT. For those who hold 
 {: .prompt-info }
 
 The CPSA is a theory based exam with material that will have been covered in the OSCP but in greater detail. For e.g. what service is generally hosted on port 25.
+
+# Is OSCP For Me?
+
+Standard question people have asked me or others on forums. The truth is it depends what you're trying to achieve.
+
+The certification is a door opener yes but there is so much more to learn before an employer will take you on. For example I lack scripting skills, which is not a major red flag but it certainly edges out other candidates by being fluent in at least one.
+
+I would recommend checking out the following resources and the reviews online. Great for a small initial investment, great return on knowledge and if you feel this is the path for you then go for the OSCP. 
+
+[https://tryhackme.com/](https://tryhackme.com/)
+
+[https://www.hackthebox.com/](https://www.hackthebox.com/)
+
+[The Cyber Mentor](https://academy.tcm-sec.com/)
+
+[https://elearnsecurity.com/](https://elearnsecurity.com/)
+
+[https://www.virtualhackinglabs.com/](https://www.virtualhackinglabs.com/)
 
 # TL;DR F.A.Qs
 
