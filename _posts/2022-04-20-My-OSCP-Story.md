@@ -1,7 +1,7 @@
 ---
 title: My OSCP Story
 author: Sam
-date: 2022-05-03 09:00:00 +0000
+date: 2022-05-04 09:00:00 +0000
 categories: [Courses, OSCP]
 tags: [oscp,courses,review]     # TAG names should always be lowercase
 comments: false
@@ -42,7 +42,9 @@ TJ Null has compiled a list of OSCP like machines external to the PWK labs cover
 
 ## Burnout
 
-Who doesn't?! Don't be afraid to admit it to yourself or to others. Sometimes you need to push the chair away from your desk and step away. Maybe an hour, day, week or even a month! It is natural so address the signs early on before it gets so heavy you wave the white flag and give up for good.
+Who doesn't experience burnout?! Don't be afraid to admit it to yourself or to others. Sometimes you need to push the chair away from your desk and step away. Maybe for an hour, day, week or even a month! It is best to address the signs early on before it gets so intense you wave the white flag and give up for good.
+
+It's important to surround yourself with those who support what you're trying to achieve. Taking this path awakened me to those who really support me and those who are just fair weathered friends. Treasure the people that relish in the success in others.
 
 # The Exam
 
@@ -96,7 +98,7 @@ If you've used the Windows privilege escalation powershell script Sherlock then 
 
 Mr Mouse has put together an online course that teaches the basic principles, tools and techniques, that are synonymous with red teaming.
 
-Access to your own lab enviroment you'll gain hands on experience of using Cobalt Strike to pivot your way through a Active Directory Forest.
+Access to your own lab environment you'll gain hands on experience of using Cobalt Strike to pivot your way through a Active Directory Forest.
 
 Google reviews, check out some YouTube vids, I can't do the course justice! Better value for money than the Red Labs at Pentestacademy with a great Discord community.
 
@@ -135,7 +137,7 @@ On/off for about 18 months.
 
 **_Did you experience burnout?_**
 
-Who doesn't?! Don't be afraid to admit it to yourself or to others. Sometimes you need to push the chair away from your desk and step away. Maybe an hour, day, week or even a month! It is natural so address the signs early on before it gets so heavy you wave the white flag and give up for good.
+Who doesn't?! Don't be afraid to admit it to yourself or to others. Step away, have a coffee, go for dinner with friends or whatever it is you do to reset your mind!
 
 **_What were your key resources external to the PWK material?_**
 
