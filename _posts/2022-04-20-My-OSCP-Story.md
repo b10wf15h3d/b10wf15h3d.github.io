@@ -1,7 +1,7 @@
 ---
 title: My OSCP Story
 author: Sam
-date: 2022-05-04 09:00:00 +0000
+date: 2022-05-05 09:00:00 +0000
 categories: [Courses, OSCP]
 tags: [oscp,courses,review]     # TAG names should always be lowercase
 comments: false
