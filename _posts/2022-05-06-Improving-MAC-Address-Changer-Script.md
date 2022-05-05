@@ -60,7 +60,7 @@ def change_mac(interface, new_mac):
 
 options = get_arguments()
 change_mac(options.interface, options.new_mac)
-```	
+```
 
 ## Revised Code
 
@@ -107,7 +107,7 @@ if current_mac == options.new_mac:
     print("[+] MAC address was successfully changed to " + current_mac)
 else:
     print("[-] MAC address did not get changed.")
- ```
+```
  
 ## Testing Code
 
