@@ -9,7 +9,7 @@ comments: false
 
 # Intro
 
-Previously I wrote a Python script that allows you to change the MAC address of an interface on a linux machine.
+Previously I wrote a Python script that allows you to change the MAC address of an interface on a linux machine. 
 
 > [My First Python Script](https://passthehash.co.uk/posts/My-First-Python-Script/)
 {: .prompt-info }
