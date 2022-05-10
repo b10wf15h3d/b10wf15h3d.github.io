@@ -62,6 +62,10 @@ network={
 }
 ```
 
+![](https://cdn.mos.cms.futurecdn.net/mEvCHGUdyBqAip5yfd5AJT-970-80.jpg)
+
+**N.B. Remember to change country to your location.**
+
 # Power Optimisation
 
 Dependent on your model Raspberry Pi these are the estimated power consumption figures:
@@ -74,6 +78,8 @@ Dependent on your model Raspberry Pi these are the estimated power consumption f
 | Raspberry Pi Zero | 100 mA | 140 mA | 140 mA – |
 
 If you're running a project whereby your device is running off an external battery then every ounce of power saved counts!
+
+The following are a couple of tips for reducing consumption.
 
 ## Disable the USB Controller
 
