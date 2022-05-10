@@ -25,7 +25,8 @@ During this project I learnt
 
 ## Code
 
-```#!/usr/bin/env python
+```python
+#!/usr/bin/env python
 
 import scapy.all as scapy
 import optparse
