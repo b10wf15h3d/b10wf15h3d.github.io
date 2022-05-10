@@ -1,5 +1,5 @@
 ---
-title: Setting Up A Headless Raspberry Pi
+title: Headless Raspberry Pi Setup
 author: Sam
 date: 2022-05-10 08:00:00 +0000
 categories: [Hardware, Raspberrypi]
@@ -13,6 +13,29 @@ In preparation of a research project (details to follow soon) coming up I've had
 
 This post details how to set up a headless Raspberry Pi 4 and fine tune the power consumption as it will be running off of a USB battery pack.
 
+# Installing preferred OS on the microSD card.
+
+1. Insert microSD card into your computer.
+
+2. Download, install and run the [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/)
+
+3. **Click the Choose OS button.** A menu appears.
+
+![](https://cdn.mos.cms.futurecdn.net/ejGTGg88vgXWWRNMSxC4QT-970-80.png.webp)
+
+4.Select the OS that you want imaged to your microSD card, if it's one you've download i.e. Kali Linux then select **Use custom** at the bottom of the list.
+
+![](https://cdn.mos.cms.futurecdn.net/uDmiGk48qrWcT36Wyk9kMo-970-80.png.webp)
+
+5.Click Choose SD card and select your card from the menu.
+
+![](https://cdn.mos.cms.futurecdn.net/vxLy37d9RNWd3juVEr38jT-970-80.png.webp)
+
+6.**Click Write.** This process will take a while as the image is transferred to the microSD and is then verified.
+
+![](https://cdn.mos.cms.futurecdn.net/6nChCh3yHBFX3rdUfRCXnT-970-80.png.webp)
+
+**N.B. Do not remove the microSD card yet!**
 
 ## Enable SSH
 
@@ -20,7 +43,7 @@ As this is a headless setup whereby we will not be using a monitor/keyboard/mous
 
 Write an empty text file named "ssh" (no file extension) to the root of the directory of the card. When it sees the "ssh" on its first boot-up, the OS will automatically enable SSH.
 
-
+![](https://cdn.mos.cms.futurecdn.net/vszT3tgmZHkcyRibiQgDaW-970-80.jpg)
 
 ## Wi-Fi Setup
 
