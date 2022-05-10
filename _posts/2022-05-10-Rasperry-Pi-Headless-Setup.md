@@ -14,7 +14,15 @@ In preparation of a research project (details to follow soon) coming up I've had
 This post details how to set up a headless Raspberry Pi 4 and fine tune the power consumption as it will be running off of a USB battery pack.
 
 
-# Wi-Fi Setup
+## Enable SSH
+
+As this is a headless setup whereby we will not be using a monitor/keyboard/mouse we need to set up remote access via SSH.
+
+Write an empty text file named "ssh" (no file extension) to the root of the directory of the card. When it sees the "ssh" on its first boot-up, the OS will automatically enable SSH.
+
+
+
+## Wi-Fi Setup
 
 To setup a Wi-Fi connection on your headless Raspberry Pi, create a text file called wpa_supplicant.conf and place it in the root directory of the microSD card. You will need the following text in the file.
 
