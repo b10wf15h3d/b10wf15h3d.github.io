@@ -9,6 +9,10 @@ comments: false
 
 # Intro
 
+In preparation of a research project (details to follow soon) coming up I've had to do some prep work in regard to the hardware I'll be using.
+
+This post details how to set up a headless Raspberry Pi 4 and fine tune the power consumption as it will be running off of a USB battery pack.
+
 
 # Wi-Fi Setup
 
