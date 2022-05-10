@@ -73,7 +73,8 @@ We will update the code to reflect the changes.
 
 ### Updated Code
 
-```#!/usr/bin/env python
+```python
+#!/usr/bin/env python
 
 import scapy.all as scapy
 import argparse
