@@ -9,7 +9,7 @@ comments: false
 
 # Intro
 
-![rpi4](/assets/img/rpi4.jpg)
+![Desktop View](/assets/img/rpi4.jpg)
 
 In preparation of a research project (details to follow soon) coming up I've had to do some prep work in regard to the hardware I'll be using.
 
