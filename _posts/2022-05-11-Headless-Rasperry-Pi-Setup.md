@@ -1,7 +1,7 @@
 ---
 title: Headless Raspberry Pi Setup
 author: Sam
-date: 2022-05-10 08:00:00 +0000
+date: 2022-05-11 08:00:00 +0000
 categories: [Hardware, Raspberrypi]
 tags: [hardware,raspberrypi,hacking]     # TAG names should always be lowercase
 comments: false
