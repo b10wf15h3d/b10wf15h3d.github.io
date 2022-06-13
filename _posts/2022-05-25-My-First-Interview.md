@@ -35,6 +35,8 @@ This was a two staged interview, a practical and a remote interview.
 
 The practical was to perform a penetration test with an allocated 3 hour time limit and then 90 minutes to write a report on my findings.
 
+As with the OSCP this was an open book practical (no unknown person watching you pick your nose!)
+
 
 
 ## Video Interview
