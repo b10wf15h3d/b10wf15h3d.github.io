@@ -9,7 +9,7 @@ comments: false
 
 # Intro
 
-I recently had my first job interview in IT Security for a Junior Penetration Tester role and just wanted to break it down for fellow newbies like me to know what they can expect!
+I recently had my first job interview in IT Security for a Junior Penetration Tester role and just wanted to break it down for fellow newbies like me to know what they can expect when looking for roles!
 
 ![Desktop View](/assets/img/newjob.jpeg)
 
@@ -19,6 +19,8 @@ I recently had my first job interview in IT Security for a Junior Penetration Te
 Having been a contractor for 10 years I have dealt with many recruiters and have had very mixed experiences! However I have to say the duo that I worked with have got to be the best I've come across!
 
 The recruiter was working with a number of clients looking for Junior Penetration Testers whom were in process of taking their OSCP or had recently passed the exam. This was great for me having just passed my exam and had no real world experience yet (17+ years in IT helped!)
+
+With their assistance we built a profile about myself to accompany my CV so that the prospective clients would get a feel about me as a candidate. As I said with no real world experience this was great as I could get across why they should take the time and put me through their interview process to prove I could be a great addition to the team.
 
 > Read the Cover Letter section at the bottom to boost your application as not all recruiters are this involved.
 {: .prompt-tip }
