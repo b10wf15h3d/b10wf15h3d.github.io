@@ -57,6 +57,13 @@ They're designed to get to know you as a person, what your previous job history 
 
 YES! 😄
 
+I am officially going to be a Junior Penetration Tester!
+
+The last couple years of hard work and perseverance has paid off!
+
+> I was very lucky to get a job offer on my first attempt. `DO NOT` get disheartened if you've had a number of interviews to no fruition. Ask for feedback and work with the advice.  
+{: .prompt-tip }
+
 # Job Hunting Advice
 
 ## Where to Apply?
