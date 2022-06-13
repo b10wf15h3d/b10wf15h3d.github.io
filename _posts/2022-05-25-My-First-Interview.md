@@ -12,7 +12,7 @@ pin: true
 
 I recently had my first job interview in Cyber Security for a Junior Penetration Tester role and just wanted to break it down for fellow newbies like me to explain what they can expect when looking for roles!
 
-![Desktop View](/assets/img/newjob.jpeg){: w="630" h="360" }
+![Desktop View](/assets/img/newjob.jpeg){: w="560" h="320" }
 
 
 # The Recruiter
