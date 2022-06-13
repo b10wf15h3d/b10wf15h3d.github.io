@@ -1,17 +1,18 @@
 ---
 title: My First Job Interview in Cyber Security
 author: Sam
-date: 2022-06-13 09:00:00 +0000
+date: 2022-06-13 10:00:00 +0000
 categories: [Work, Career]
 tags: [work,career,job,intereview]     # TAG names should always be lowercase
 comments: false
+pin: true
 ---
 
 # Intro
 
 I recently had my first job interview in Cyber Security for a Junior Penetration Tester role and just wanted to break it down for fellow newbies like me to explain what they can expect when looking for roles!
 
-![Desktop View](/assets/img/newjob.jpeg)
+![Desktop View](/assets/img/newjob.jpeg){: w="700" h="400" }
 
 
 # The Recruiter
@@ -39,7 +40,7 @@ As with the OSCP this was an open book practical (no unknown person watching you
 
 If you've recently passed your OSCP, work on HTB or OffSec PG then you should have no issues with this stage of the interview! Keep calm, take notes, take screenshots as you go along, take short break if necessary etc)
 
-One box was geared more towards infrastructure exploits (FTP,SMB,SMTP,etc), the second was hosting a web app and the third well numbnuts here tested my own VM provided to me! Thankfully I think the fact I provided my process of the testing they let it slide but was a facepalm moment when they explained in the interview what I'd done.
+One box was geared more towards infrastructure exploits (FTP,SMB,SMTP,etc), the second was hosting a web app and the third well numbnuts here tested my own VM provided to me! Thankfully I think the fact I provided my process of the testing they let it slide but was a 🤦‍♂️ moment when they explained in the interview what I'd done.
 
 > `Read` the penetration scenario/instructions twice! 
 {: .prompt-tip }
@@ -52,6 +53,10 @@ Video/in-person interviews are all the same!
 
 They're designed to get to know you as a person, what your previous job history is, how would you deal with situation X and Y, what sort of career progression do you perhaps see, find out more about the company etc etc.
 
+## Did I Get The Job?
+
+YES! 😄
+
 # Job Hunting Advice
 
 ## Where to Apply?
@@ -60,7 +65,7 @@ I was passed on details of a recruiter via a friend of mine whom had seen a post
 
 A number of IT Sec servers have #Career channels that mostly cover the US but there are some posts that are EU based. I suggest joining a few and check them out every couple of days as often these jobs are not advertised elsewhere.
 
-Below are my suggestions of where to search for roles, increasingly people are shying away from job websites like JobServer and heading to Linkedin / community platforms.
+Below are my suggestions of where to search for roles, increasingly people are shying away from job websites like JobServe and heading to Linkedin / community platforms.
 
 * Linkedin
 * Reddit (checkout IT Sec related subreddits)
@@ -82,3 +87,10 @@ A Cover Letter is a great way to get across details that do not have a place on 
 * What route do you see your career going?
 
 * What soft skills from previous roles are transferrable?
+
+# TL;DR
+
+* Wrote CV/Cover Letter
+* Applied for job
+* Two stage interview
+* Got job
