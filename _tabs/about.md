@@ -16,6 +16,7 @@ Certifications I currently possess:
 
 - [x] Offensive Security OSCP
 - [x] Blue Team Level 1 (BTL1)
+- [x] Cyber Scheme Team Member (CSTM)
 - [x] Professional Scrum Master I (PSM I) 
 - [x] AgilePM Practitioner
 - [x] Prince2 Practitioner
