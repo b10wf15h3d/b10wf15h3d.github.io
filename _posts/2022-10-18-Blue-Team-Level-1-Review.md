@@ -18,7 +18,7 @@ Anyone that works on the defensive front, I tip my hat to you! 🤠 You're true 
 
 # Course
 
-I'm unable to show content (however you can sign up for the free trial content)
+I'm unable to show content presentation (however you can sign up for the free trial content for a gander) I got to say it felt beautifully smooth
 
 ## Details
 
@@ -41,7 +41,7 @@ The only thing that did annoy me and have found it on many sites that offer Dark
 
 The course is broken up into six domains:
 
-![Desktop View](/assets/img/btl1-domains.jpeg)
+![Desktop View](/assets/img/btl1-domains.jpg)
 
 ### Course Syllabus
 
@@ -54,9 +54,9 @@ Below is a link to the syllabus of the course (correct at the time of posting Oc
 
 As I said before I really love the UX of this course and tracking my progress is part of that. Each time I checked how much I had covered it gave me that motivation to hit that next milestone, to invest that extra half hour here and there.
 
-![Desktop View](/assets/img/btl1-progress.jpeg)
+![Desktop View](/assets/img/btl1-progress.jpg)
 
-![Desktop View](/assets/img/btl1-domains-progress.jpeg)
+![Desktop View](/assets/img/btl1-domains-progress.jpg)
 
 ## Additional Material
 
