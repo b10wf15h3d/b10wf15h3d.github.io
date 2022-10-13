@@ -1,7 +1,7 @@
 ---
 title: Blue Team Level 1 Review
 author: Sam
-date: 2022-10-10 08:00:00 +0000
+date: 2022-10-18 08:00:00 +0000
 categories: [Course, Defensive]
 tags: [btl1,courses,review,blue team]     # TAG names should always be lowercase
 comments: false
@@ -20,9 +20,9 @@ Anyone that works on the defensive front, I tip my hat to you! 🤠 You're true 
 
 # Course
 
-I'm unable to show the presentation (however you can sign up for the free trial for a gander) I got to say it felt beautifully smooth! 
+I'm unable to show the presentation (however you can sign up for the free trial for a gander) but I got to say it felt beautifully smooth! 
 
-The only thing that did annoy me and have found it on many sites that offer Dark Mode is that hyperlinks are of a colour that cannot be read! You have to highlight the text to read what you're clicking!
+The only thing that did annoy me and have found it on many sites that offer Dark Mode is that hyperlinks are of a colour that cannot be visibly read! You have to highlight the text to read what you're clicking!
 
 ## Details
 
