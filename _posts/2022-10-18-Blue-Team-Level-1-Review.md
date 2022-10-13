@@ -16,7 +16,7 @@ You may question as to why an offensive security analyst (as in a Red Team membe
 
 Anyone that works on the defensive front, I tip my hat to you! 🤠 You're true unsung heroes in the IT/Cyber Security world, keep up the good work, it's a tough role.
 
-![Desktop View](/assets/img/btl1-intro.png)
+![Desktop View](/assets/img/btl1-intro.png){: width="300" height="240" }
 
 # Course
 
