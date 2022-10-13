@@ -18,7 +18,9 @@ Anyone that works on the defensive front, I tip my hat to you! 🤠 You're true 
 
 # Course
 
-I'm unable to show content presentation (however you can sign up for the free trial content for a gander) I got to say it felt beautifully smooth
+I'm unable to show the presentation (however you can sign up for the free trial for a gander) I got to say it felt beautifully smooth! 
+
+The only thing that did annoy me and have found it on many sites that offer Dark Mode is that hyperlinks are of a colour that cannot be read! You have to highlight the text to read what you're clicking!
 
 ## Details
 
@@ -34,14 +36,15 @@ Link: [Blue Team Level 1](https://securityblue.team/why-btl1/)
 
 ## Content
 
+The content itself was very well written, I would almost say that if you do not work in an IT setting already you could start the course and not struggle with the learning process (if you're at least IT literate). On the other hand if you have a number of years experience it does not come across condescending either, though you may skim across sections here and there.
 
-The only thing that did annoy me and have found it on many sites that offer Dark Mode is that hyperlinks are of a colour that cannot be read! You have to highlight the text to read what you're clicking!
+
 
 ### Domains Covered
 
 The course is broken up into six domains:
 
-![Desktop View](/assets/img/btl1-domains.jpg){: width="250" height="200" }
+![Desktop View](/assets/img/btl1-domains.jpg){: width="300" height="240" }
 
 ### Course Syllabus
 
