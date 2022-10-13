@@ -41,7 +41,7 @@ The only thing that did annoy me and have found it on many sites that offer Dark
 
 The course is broken up into six domains:
 
-![Desktop View](/assets/img/btl1-domains.jpg){: width="700" height="400" }
+![Desktop View](/assets/img/btl1-domains.jpg){: width="250" height="200" }
 
 ### Course Syllabus
 
