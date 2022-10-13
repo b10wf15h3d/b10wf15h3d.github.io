@@ -1,7 +1,7 @@
 ---
 title: You Thought You Came Here To Hack?
 author: Sam
-date: 2022-10-13 10:00:00 +0000
+date: 2022-10-13 09:00:00 +0000
 categories: [Work, Career]
 tags: [work,career,job]     # TAG names should always be lowercase
 comments: false
