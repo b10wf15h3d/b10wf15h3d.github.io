@@ -54,22 +54,28 @@ The course is broken up into six domains:
 
 Below is a link to the syllabus of the course (correct at the time of posting Oct '22)
 
+Not going to copy/paste it all but it's good to check out if you're interested in the course.	
+
 > [BTL 1 Syllabus](https://securityblue.team/download/46322/)
 {: .prompt-info }
 
 ### Tracking Progress
 
-As I said before I really love the UX of this course and tracking my progress is part of that. Each time I checked how much I had covered it gave me that motivation to hit that next milestone, to invest that extra half hour here and there.
+As I said before I really loved the UX of this course and ability to track my progress is part of that. Each time I checked how much I had covered it gave me that motivation to hit that next milestone, to invest that extra half hour here and there.
 
 ![Desktop View](/assets/img/btl1-progress.jpg)
 
 ![Desktop View](/assets/img/btl1-domains-progress.jpg)
 
+### Favourite Domain
+
+My favourite knowledge domain has to be Digital Forensics. I had a strong interesting in DF from a young age, even meeting investigators due my connections in the security industry however attempts to break into it was futile.
+
 ## Additional Material
 
-Once I completed the course material and the labs that were available at the time I nowhere felt confident in regard to taking the exam. I signed up to Security Blue Team's equivalent to hackthebox, Blue Team Labs.
+Once I completed the course material and the labs that were available at the time I nowhere felt confident in regards to tackling the exam. So I signed up to Security Blue Team's equivalent to hackthebox, Blue Team Labs.
 
-It is recommended to do the following investigations to get an idea of what the exam will be like. The only gripe I have is that even though some of the labs are shy of being 1 year old they were not "retired" so if you become stuff there were no community write-ups to guide you through the learning process.
+It is recommended to do the following investigations to get an idea of what the exam will be like. The only gripe I have is that even though some of the labs are shy of being 1 year old they were not "retired" so if you become stuck there were no community write-ups to guide you through the learning process. However those that were the write-ups were really well written, they included why you should do X and links to research instead of screenshots of the answers.
 
 * Deep Blue
 * Countdown
@@ -136,6 +142,7 @@ I personally would like to see at least 1 or 2 "mini investigations" included wi
 # TL;DR
 
 * Great value for money.
-* 10/10 would recommend to Blue and Red teamers
+* Amazing short and concise material.
+* 10/10 would recommend to both Blue and Red teams.
 * Passed with 18/10.
 * Would be tempted to do BTL 2 if not for the cost.
