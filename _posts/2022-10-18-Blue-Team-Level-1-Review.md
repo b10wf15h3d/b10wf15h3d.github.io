@@ -1,7 +1,7 @@
 ---
 title: Blue Team Level 1 Review
 author: Sam
-date: 2022-10-10 08:00:00 +0000
+date: 2022-10-18 08:00:00 +0000
 categories: [Course, Defensive]
 tags: [btl1,courses,review,blue team]     # TAG names should always be lowercase
 comments: false
