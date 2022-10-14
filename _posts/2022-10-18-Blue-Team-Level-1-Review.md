@@ -1,7 +1,7 @@
 ---
 title: Blue Team Level 1 Review
 author: Sam
-date: 2022-10-18 08:00:00 +0000
+date: 2022-10-10 08:00:00 +0000
 categories: [Course, Defensive]
 tags: [btl1,courses,review,blue team]     # TAG names should always be lowercase
 comments: false
@@ -12,9 +12,9 @@ pin: false
 
 You may question as to why an offensive security analyst (as in a Red Team member, though I do have my moments) decided to take a Blue Team course.
 
-"Don't judge someone until you've walked a mile in their shoes" well it's the shortest summary I could come up. To be honest I was really intrigued to what being a Blue Team member was truly about as I thought their sole purpose was to chase tails and resolve issues. Having spent 18 years doing that in IT Support I had no interesting in following that path! I figured this course would help me develop a better rapport and respect for the "opposition" teams that as a Red Teamer try to assist in securing the platforms that they're responsible for.
+"Don't judge someone until you've walked a mile in their shoes" well it's the shortest summary I could come up. To be honest I was really intrigued to what being a Blue Team member was truly about as I thought their sole purpose was to chase tails and resolve issues. Having spent 18 years doing that in IT Support I had no interest in following that path! I figured this course would help me develop a better rapport and respect for the "opposition" teams that as a Red Teamer I try to assist in securing the platforms that they're responsible for.
 
-Anyone that works on the defensive front, I tip my hat to you! 🤠 You're true unsung heroes in the IT/Cyber Security world, keep up the good work, it's a tough role.
+Anyone that works on the defensive front, I tip my hat to you! 🤠 You are true unsung heroes in the IT/Cyber Security world, keep up the good work, it's a tough job!
 
 ![Desktop View](/assets/img/btl1-intro.png){: width="300" height="240" }
 
@@ -40,7 +40,9 @@ Link: [Blue Team Level 1](https://securityblue.team/why-btl1/)
 
 The content itself was very well written, I would almost say that if you do not work in an IT setting already you could start the course and not struggle with the learning process (if you're at least IT literate). On the other hand if you have a number of years experience it does not come across condescending either, though you may skim across sections here and there.
 
+Each Domain is broken into a number of sections which are made up of associated topics. The topics are appropriately sized and do not drag on to a zzz. I've seen to much courseware which contains word salad in an attempt to pad out their content instead of focusing on the quality of the work. At the end of each section there is a short quiz to test the absorption of the information. 
 
+There are a number of extra curricular activities that are not essential material but are very beneficial. These include setting up a Pfsense firewall and writing Sigma Rules for SIEM systems. 
 
 ### Domains Covered
 
@@ -133,6 +135,7 @@ I personally would like to see at least 1 or 2 "mini investigations" included wi
 
 # TL;DR
 
-* 
+* Great value for money.
 * 10/10 would recommend to Blue and Red teamers
-* Passed with 18/10
+* Passed with 18/10.
+* Would be tempted to do BTL 2 if not for the cost.
