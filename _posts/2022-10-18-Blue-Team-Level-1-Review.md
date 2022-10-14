@@ -71,6 +71,8 @@ As I said before I really loved the UX of this course and ability to track my pr
 
 My favourite knowledge domain has to be Digital Forensics. I had a strong interesting in DF from a young age, even meeting investigators due my connections in the security industry however attempts to break into it was futile.
 
+Anyway this was great as I got to dissect hard drive images using tools such as Autopsy. I wished there were more labs to this but from more of a personal enjoyment than a lack of material.
+
 ## Additional Material
 
 Once I completed the course material and the labs that were available at the time I nowhere felt confident in regards to tackling the exam. So I signed up to Security Blue Team's equivalent to hackthebox, Blue Team Labs.
