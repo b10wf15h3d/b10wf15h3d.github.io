@@ -2,10 +2,14 @@
 title: Blue Team Level 1 Review
 author: Sam
 date: 2022-10-18 08:00:00 +0000
+description: "Why a red teamer took the Blue Team Level 1 course, covering cost, labs, study time and what life is like on the defensive side."
 categories: [Course, Defensive]
 tags: [btl1,courses,review,blue team]     # TAG names should always be lowercase
 comments: false
 pin: false
+image:
+  path: /assets/img/posts/previews/btl1.jpg
+  alt: Blue Team Level 1 logo, a figure in a blue hoodie
 ---
 
 # Intro
@@ -16,7 +20,6 @@ You may question as to why an offensive security analyst (as in a Red Team membe
 
 Anyone that works on the defensive front, I tip my hat to you! 🤠 You are true unsung heroes in the IT/Cyber Security world, keep up the good work, it's a tough job!
 
-![Desktop View](/assets/img/btl1-intro.png){: width="300" height="240" }
 
 # Course
 

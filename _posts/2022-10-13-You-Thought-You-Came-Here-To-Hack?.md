@@ -2,10 +2,14 @@
 title: You Thought You Came Here To Hack?
 author: Sam
 date: 2022-10-13 08:00:00 +0000
+description: "My first three months as a penetration tester, and why the job starts with onboarding and building lab networks rather than dropping shells."
 categories: [Work, Career]
 tags: [work,career,job]     # TAG names should always be lowercase
 comments: false
 pin: false
+image:
+  path: /assets/img/posts/previews/came-here-to-hack.jpg
+  alt: Two men laughing hysterically
 ---
 
 # Intro
@@ -16,7 +20,6 @@ I often wonder why I do not see many people write how things are going after so 
 
 ## You Thought You Came Here To Hack?
 
-![Desktop View](/assets/img/laugh.jpeg){: w="560" h="320" }
 
 I do not know how it works elsewhere but my company has a comprehensive onboarding process and as I've come to the end of it I understand the point of the journey.
 
