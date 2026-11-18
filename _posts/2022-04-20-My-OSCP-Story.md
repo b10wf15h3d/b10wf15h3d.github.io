@@ -5,7 +5,7 @@ date: 2022-05-05 08:00:00 +0000
 categories: [Courses, OSCP]
 tags: [oscp,courses,review]     # TAG names should always be lowercase
 comments: false
-pin: true
+pin: false
 ---
 
 # Intro
