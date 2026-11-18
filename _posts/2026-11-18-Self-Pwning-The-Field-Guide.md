@@ -1,12 +1,13 @@
 ---
 title: "Self Pwning: I Turned My Talk Into a Field Guide"
 date: 2026-11-18 09:00:00 +0000
+description: "My talk on mental health in cyber security is now Self Pwning, a free 20-page field guide to stress, anxiety, burnout and imposter syndrome. Here's the story behind it."
 categories: [Mental Health, Projects]
 tags: [mental health, imposter syndrome, burnout, stress, anxiety, talks]
 pin: true
 image:
   path: /assets/img/posts/self-pwning/hero.jpg
-  alt: The Self Pwning field guide cover next to an open spread showing the "Why Cyber Is Exposed" and "Organise Your Time" pages
+  alt: The Self Pwning field guide cover next to an open spread showing the Why Cyber Is Exposed and Organise Your Time pages
 ---
 
 ## Intro
