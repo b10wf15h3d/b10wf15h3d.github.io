@@ -1,4 +1,4 @@
-name: 'Automatic build'
+name: "Build and Deploy"
 on:
   push:
     branches:
@@ -8,22 +8,61 @@ on:
       - README.md
       - LICENSE
 
-jobs:
-  continuous-delivery:
+  # Build and test pull requests (no deploy)
+  pull_request:
 
+  # Rebuild every morning so posts dated in the future go live on their day.
+  # 08:05 UTC is 08:05 in winter and 09:05 in summer (UK).
+  schedule:
+    - cron: "5 8 * * *"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# One build at a time; a newer push cancels an older build
+concurrency:
+  group: "pages-${{ github.ref }}"
+  cancel-in-progress: true
+
+jobs:
+  build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # for posts's lastmod
+          fetch-depth: 0 # for posts' last-modified dates
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7
+          ruby-version: 3.3
           bundler-cache: true
 
-      - name: Deploy
-        run: bash tools/deploy.sh
+      - name: Build site
+        run: bundle exec jekyll b -d _site
+        env:
+          JEKYLL_ENV: "production"
+
+      - name: Test site
+        run: |
+          bundle exec htmlproofer _site \
+            --disable-external \
+            --ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
+
+      - name: Deploy to gh-pages branch
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: gh-pages
+          cname: passthehash.co.uk
+          force_orphan: true
+          user_name: "github-actions[bot]"
+          user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_message: "[Automation] Site update"
