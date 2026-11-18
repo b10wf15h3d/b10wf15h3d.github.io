@@ -2,17 +2,20 @@
 title: My OSCP Story
 author: Sam
 date: 2022-05-05 08:00:00 +0000
+description: "How I went from years in IT support to passing the OSCP: my background, 18 months of study, the PWK labs and the tips that got me through the exam."
 categories: [Courses, OSCP]
 tags: [oscp,courses,review]     # TAG names should always be lowercase
 comments: false
 pin: false
+image:
+  path: /assets/img/posts/previews/oscp.jpg
+  alt: The Mandalorian with the caption This Is The Way
 ---
 
 # Intro
 
 You haven't truly passed your OSCP certification until you've written even a brief blog post about it.
 
-![Desktop View](/assets/img/thisistheway.jpeg)
 
 # My Background
 

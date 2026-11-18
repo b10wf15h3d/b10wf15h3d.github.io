@@ -2,6 +2,7 @@
 title: My First Python Script
 author: Sam
 date: 2022-05-03 09:00:00 +0000
+description: "My first Python project from a Udemy ethical hacking course: a MAC address changer, and what it taught me about modules, subprocess and arguments."
 categories: [Courses, Python]
 tags: [courses,python,udemy,scripts]     # TAG names should always be lowercase
 comments: false
