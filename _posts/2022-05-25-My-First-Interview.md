@@ -5,7 +5,7 @@ date: 2022-06-13 10:00:00 +0000
 categories: [Work, Career]
 tags: [work,career,job,intereview]     # TAG names should always be lowercase
 comments: false
-pin: true
+pin: false
 ---
 
 # Intro
