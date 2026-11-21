@@ -19,7 +19,7 @@ title: Pass The Hash # the main title
 tagline: Just Another Cybersecurity Blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Just Another Cybersecurity Blog
+  A red teamer's blog on passing the OSCP, breaking into penetration testing, Python security tools, and mental health in cyber security. Written by Sam Macdonald.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -101,7 +101,7 @@ avatar: "https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairTheCaesa
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: /assets/img/social-preview.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
