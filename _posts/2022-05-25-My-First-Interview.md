@@ -2,17 +2,20 @@
 title: My First Job Interview in Cyber Security
 author: Sam
 date: 2022-06-13 10:00:00 +0000
+description: "What to expect from your first junior penetration tester interview, from working with a recruiter to the practical test, the report and the remote interview."
 categories: [Work, Career]
 tags: [work,career,job,intereview]     # TAG names should always be lowercase
 comments: false
 pin: false
+image:
+  path: /assets/img/posts/previews/first-interview.jpg
+  alt: Comic strip in which an interviewer asks about experience, the candidate says no, and he gets hired so he can gain some
 ---
 
 # Intro
 
 I recently had my first job interview in Cyber Security for a Junior Penetration Tester role and just wanted to break it down for fellow newbies like me to explain what they can expect when looking for roles!
 
-![Desktop View](/assets/img/newjob.jpeg){: w="560" h="320" }
 
 
 # The Recruiter

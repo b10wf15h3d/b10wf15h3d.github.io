@@ -2,9 +2,13 @@
 title: Improving MAC Address Changer Script
 author: Sam
 date: 2022-05-06 08:00:00 +0000
+description: "Improving my Python MAC address changer: reading the current MAC with regex and checking whether the change actually worked."
 categories: [Courses, Python]
 tags: [courses,python,udemy,scripts]     # TAG names should always be lowercase
 comments: false
+image:
+  path: /assets/img/posts/previews/mac-changer.jpg
+  alt: Terminal output showing the MAC address changer script successfully changing the MAC address of eth0
 ---
 
 # Intro

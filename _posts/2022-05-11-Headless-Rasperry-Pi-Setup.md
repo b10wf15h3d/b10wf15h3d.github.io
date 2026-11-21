@@ -2,14 +2,17 @@
 title: Headless Raspberry Pi Setup
 author: Sam
 date: 2022-05-11 08:00:00 +0000
+description: "How to set up a headless Raspberry Pi 4 and cut its power use so it can run from a USB battery pack."
 categories: [Hardware, Raspberrypi]
 tags: [hardware,raspberrypi,hacking]     # TAG names should always be lowercase
 comments: false
+image:
+  path: /assets/img/posts/previews/rpi.jpg
+  alt: A Raspberry Pi 4 board next to a USB battery pack
 ---
 
 # Intro
 
-![Desktop View](/assets/img/rpi4.jpg)
 
 In preparation of a research project (details to follow soon) coming up I've had to do some prep work in regard to the hardware I'll be using.
 

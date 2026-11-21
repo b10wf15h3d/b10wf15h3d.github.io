@@ -2,6 +2,7 @@
 title: Writing a Network Scanner
 author: Sam
 date: 2022-05-10 08:00:00 +0000
+description: "The third project from my Udemy Python course: a network scanner using ARP requests and Scapy."
 categories: [Courses, Python]
 tags: [courses,python,udemy,scripts]     # TAG names should always be lowercase
 comments: false
