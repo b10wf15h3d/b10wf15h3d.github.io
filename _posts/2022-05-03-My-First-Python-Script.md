@@ -6,6 +6,7 @@ description: "My first Python project from a Udemy ethical hacking course: a MAC
 categories: [Courses, Python]
 tags: [courses,python,udemy,scripts]     # TAG names should always be lowercase
 comments: false
+image: /assets/img/posts/previews/python-script.jpg
 ---
 # Intro
 

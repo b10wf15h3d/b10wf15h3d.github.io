@@ -6,6 +6,7 @@ description: "The third project from my Udemy Python course: a network scanner u
 categories: [Courses, Python]
 tags: [courses,python,udemy,scripts]     # TAG names should always be lowercase
 comments: false
+image: /assets/img/posts/previews/network-scanner.jpg
 ---
 
 # Intro
