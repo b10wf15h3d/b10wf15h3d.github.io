@@ -26,24 +26,22 @@ description: >- # used by seo meta and the atom feed
 url: "https://passthehash.co.uk"
 
 github:
-  username: b10wf15h3d # change to your GitHub username
+  username: # removed
 
 twitter:
-  username: b10wf15h # change to your Twitter username
+  username: # removed
+
+author: Sam Macdonald
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: b10wf15h
-  email: b10wf13h@proton.me # change to your email address
+  email: hello@passthehash.co.uk
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/b10wf15h # change to your Twitter homepage
-    - https://github.com/b10wf15h3d # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/sam-macdonald-66967642/
 
 # Site Verification Settings
 webmaster_verifications:

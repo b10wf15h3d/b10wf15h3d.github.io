@@ -4,7 +4,7 @@ author: Sam
 date: 2022-06-13 10:00:00 +0000
 description: "What to expect from your first junior penetration tester interview, from working with a recruiter to the practical test, the report and the remote interview."
 categories: [Work, Career]
-tags: [work,career,job,intereview]     # TAG names should always be lowercase
+tags: [work,career,job,interview]     # TAG names should always be lowercase
 comments: false
 pin: false
 image:
