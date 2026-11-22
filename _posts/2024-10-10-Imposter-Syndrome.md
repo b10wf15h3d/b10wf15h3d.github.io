@@ -7,6 +7,9 @@ categories: [Mental Health, Career]
 tags: [imposter syndrome,mental health,career,cyber security]     # TAG names should always be lowercase
 comments: false
 pin: false
+image:
+  path: /assets/img/posts/previews/imposter-syndrome.png
+  alt: An avatar surrounded by self-doubt thoughts such as Am I good enough and Overwhelmed, with a speech bubble saying Imposter syndrome? Let's deal with it!
 ---
 
 ## TL;DR
@@ -140,6 +143,7 @@ There are various techniques to help manage these feelings, but finding what wor
 
 ## Further reading
 
+- [Self Pwning - Imposter Syndrome](https://selfpwning.com/imposter-syndrome/)
 - [Bupa – Imposter Syndrome](https://www.bupa.co.uk/business/news-and-information/imposter-syndrome)
 - [Nuffield Health – Imposter Syndrome Signs, Symptoms & Treatments](https://www.nuffieldhealth.com/article/imposter-syndrome-signs-symptoms-treatments)
 - [BMA – Imposter Syndrome](https://www.bma.org.uk/advice-and-support/your-wellbeing/insight-and-advice/first-times-in-medicine/imposter-syndrome)
