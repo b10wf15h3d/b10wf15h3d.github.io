@@ -15,7 +15,7 @@ pin: false
 - Anyone can be affected by it
 - There are ways to cope
 
-> This write-up follows my presentation at BSides Ljubljana. The video is available [here](LINK_TO_VIDEO).
+> This write-up follows my presentation at BSides Ljubljana.
 {: .prompt-info }
 
 ## What is imposter syndrome?
